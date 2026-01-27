@@ -98,7 +98,7 @@ export default function Banner(): React.JSX.Element {
             {/* Desktop: Hello text in original position */}
             <div className="hidden lg:inline-block relative">
               <Image
-                src="/assets/arrow.png"
+                src="https://gabrielhempel1924.github.io/portifolio-gabriel/assets/arrow.png"
                 alt="Arrow pointer"
                 width={100}
                 height={100}
