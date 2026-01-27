@@ -10,7 +10,8 @@ export default function Footer(): React.JSX.Element {
             Contato
           </h2>
           <p className="text-md text-white/80 max-w-2xl mx-auto mb-8">
-            Estou procurando uma oportunidade para integrar uma equipe multifuncional que valorize a melhoria da vida das pessoas por meio do aprendizado continuo, ou você tem algum projeto em mente? Vamos conversar.
+          Atualmente atuo no setor de produtc development na Mitel.
+Se você tem um projeto, ideia ou desafio técnico em mente, vamos conversar.
           </p>
           <a
             href="mailto:ibii.code@gmail.com"

@@ -11,7 +11,7 @@ export default function Home(): React.JSX.Element {
       <Header />
       <Banner />
       <Experience />
-      
+      <About />
       <Projects />
       <Footer />
     </main>

@@ -54,7 +54,7 @@ export default function Projects(): React.JSX.Element {
                 {/* Text Content */}
                 <div className={`${isEven ? "lg:col-start-2" : ""}`}>
                   <p className="text-purple-400 text-lg lg:text-xl mb-2 font-medium">
-                    Featured Project
+                    
                   </p>
                   <h3 className="text-3xl lg:text-4xl font-bold text-white mb-6">
                     {project.title}
